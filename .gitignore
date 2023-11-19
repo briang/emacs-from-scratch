@@ -1,4 +1,6 @@
-etc/
-var/
+.last-package-update-day
+eln-cache/
 elpa/
-packages/
+etc/
+packages/eln-cache/
+var/
